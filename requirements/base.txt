@@ -7,7 +7,7 @@ drf-yasg==1.17.1
 Markdown==3.2.1
 psycopg2==2.8.4
 pytz==2019.3
-requests==2.22.0
+requests==2.23.0
 Scrapy==1.8.0
 pygal==2.4.0
 pendulum==2.0.5
