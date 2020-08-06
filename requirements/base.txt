@@ -1,15 +1,15 @@
-Django==2.2.14 # pyup: >=2.2,<3.0
+Django==2.2.15 # pyup: >=2.2,<3.0
 django-filter==2.3.0
 django-environ==0.4.5
-djangorestframework==3.11.0
-django-extensions==3.0.2
+djangorestframework==3.11.1
+django-extensions==3.0.4
 drf-yasg==1.17.1
 Markdown==3.2.2
 psycopg2==2.8.5
 pytz==2020.1
 requests==2.24.0
-Scrapy==2.2.0
+Scrapy==2.3.0
 pygal==2.4.0
-pendulum==2.1.0
+pendulum==2.1.2
 
 django-jsonfield==1.4.0
